@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C1", "C1\C1.csproj", "{2E749EBD-1E23-4BA0-82F3-6E349D43C509}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C1", "C1\C1.csproj", "{2E749EBD-1E23-4BA0-82F3-6E349D43C509}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T6UR2", "T6UR2\T6UR2.csproj", "{1AD2425B-1343-4CF4-9023-6571E9C842A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T6UR2", "T6UR2\T6UR2.csproj", "{1AD2425B-1343-4CF4-9023-6571E9C842A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thek", "Thek\Thek.csproj", "{1669BC97-B6A1-42E7-90A6-8F2CB4CB390A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Thek", "Thek\Thek.csproj", "{1669BC97-B6A1-42E7-90A6-8F2CB4CB390A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T8U1", "T8U1\T8U1.csproj", "{20B63242-C6D4-4C20-95C7-D878A623A56D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{1669BC97-B6A1-42E7-90A6-8F2CB4CB390A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1669BC97-B6A1-42E7-90A6-8F2CB4CB390A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1669BC97-B6A1-42E7-90A6-8F2CB4CB390A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20B63242-C6D4-4C20-95C7-D878A623A56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B63242-C6D4-4C20-95C7-D878A623A56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B63242-C6D4-4C20-95C7-D878A623A56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B63242-C6D4-4C20-95C7-D878A623A56D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
